@@ -1,6 +1,0 @@
-Metadata-Version: 2.1
-Name: FilePicker
-Version: 1.0.0
-Summary: A file picker utility with clipboard functionality
-Requires-Python: >=3.8
-Requires-Dist: PyQt6>=6.4.0
