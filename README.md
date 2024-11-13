@@ -48,4 +48,4 @@ FilePicker is a utility designed to simplify file selection for code projects. I
 
 ## Thanks
 
-I'd like to thank the [Aider](https://aider.chat/) team. I'm a C# developer, but I wanted this to be a cross-platform tool. ChatGPT suggest I used PyQt for that. This would have taken me at least several hours to write on my own, having no Qt experience and not really being a Python developer, but with Aider an Anthropic API key and about $0.35, it took about a half hour. It also wrote most of the README above. It's a fantastic tool. Big high-five to those guys!
+I'd like to thank the [Aider](https://aider.chat/) team. I'm a C# developer, but I wanted this to be a cross-platform tool. ChatGPT suggest I use PyQt for that. This would have taken me at least several hours to write on my own, having no Qt experience and not really being a Python developer, but with Aider, an Anthropic API key and about $0.35, it took about a half hour. It also wrote most of the README above. It's a fantastic tool. Big high-five to those guys!
