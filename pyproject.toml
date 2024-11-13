@@ -1,0 +1,18 @@
+[project]
+name = "FilePicker"
+version = "1.0.0"
+description = "A file picker utility with clipboard functionality"
+requires-python = ">=3.8"
+dependencies = [
+    "PyQt6>=6.4.0",
+]
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+packages = ["filepicker"]
+
+[project.scripts]
+filepicker = "filepicker.main:main"
