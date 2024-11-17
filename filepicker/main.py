@@ -11,7 +11,7 @@ from filepicker.file_list_widget import FileListWidget
 class FileManagerApp(QMainWindow):
     def __init__(self):
         super().__init__()
-        self.setWindowTitle("File Manager")
+        self.setWindowTitle("File Picker")
         self.setGeometry(100, 100, 800, 600)
         
         # Create central widget and layout
