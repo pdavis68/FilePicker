@@ -1,6 +1,6 @@
 # FilePicker
 
-FilePicker is a utility designed to simplify file selection for code projects. It allows users to pick specific files from a project directory, concatenate their contents, and copy the results to the clipboard. This is particularly useful for providing context to Large Language Models (LLMs) when seeking programming assistance.
+FilePicker is a utility designed to simplify file selection for code projects. It allows users to pick specific files from a project directory, concatenate their contents, and copy the results to the clipboard. This is particularly useful for providing context to Large Language Models (LLMs) for programming related questions.
 
 ![FilePicker Screenshot](assets/screenshot.png)
 
