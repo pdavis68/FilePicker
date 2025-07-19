@@ -29,6 +29,7 @@ class FileManagerApp(QMainWindow):
         self.tree_view.setRootIndex(self.model.index(QDir.currentPath()))
         self.tree_view.setColumnWidth(0, 200)
         self.tree_view.setSortingEnabled(True)
+        self.tree_view.sortByColumn(0, Qt.SortOrder.AscendingOrder)  # Set ascending sort order
         self.tree_view.setAnimated(True)
         self.tree_view.setIndentation(20)
         self.tree_view.setWindowTitle("Dir View")
